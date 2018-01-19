@@ -1,0 +1,3 @@
+shape,train_size,pca_features,svctrain,svctest,knntrain,knntest,ldatrain,ldatest,qdatrain,qdatest,logistictrain,logistictest,gaussiantrain,gaussiantest,mlptrain,mlptest,rftrain,rftest
+20,10,NA,0.99,0.0225252525253,1.0,0.019797979798,1.0,0.0336363636364,1.0,0.0971717171717,1.0,0.0205050505051,0.79,0.23898989899,1.0,0.0250505050505,1.0,0.205252525253
+20,500,NA,0.9874,0.6048,1.0,0.5556,0.925,0.5072,0.7714,0.2834,0.9404,0.4718,0.6234,0.5156,0.9978,0.5106,0.9972,0.634
