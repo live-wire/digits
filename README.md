@@ -8,6 +8,7 @@ Setting up virtual environment:
 ```
 virtualenv -p python3 nistvenv
 source nistvenv/bin/activate
+pip install -r requirements.txt
 ```
 
 Then simply run the server file which picks up the trained model:
