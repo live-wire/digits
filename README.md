@@ -17,4 +17,6 @@ python server.py
 
 The UI will be accessible on port 5001.
 
+Application is hosted [here.](https://goo.gl/eHhcfP)
+
 
