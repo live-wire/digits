@@ -1,8 +1,5 @@
 from PIL import Image
 import numpy as np
-import matplotlib as mpl
-mpl.use('TkAgg')
-import matplotlib.pyplot as plt
 from time import sleep
 import scipy.io as sio
 from skimage.transform import resize
